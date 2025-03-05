@@ -15,7 +15,7 @@
 _____________________________________________________
                        ABOUT
 _____________________________________________________
-TimeServer v1.0 [Golang] by oni-engineer
+TimeServer v1.0 [Golang] by wnderbin
 
 Info:
 ├─ Description: Simple time web time server in Golang
@@ -24,7 +24,7 @@ Info:
 ├─ Language: Go 1.23.5
 ├─ Tested on: Linux
 ├─ Dependencies: -
-└─ Author: oni-engineer
+└─ Author: wnderbin
 
 Documentation:
     ├─ Launch:
